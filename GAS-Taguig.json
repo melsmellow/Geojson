@@ -1,0 +1,396 @@
+{
+    "features" :[
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0356276,
+                    14.5071563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50193675&lng=121.0515034&fid=0x3397cf31b6989e25:0x2552e8dfc4c179d4&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0610441,
+                    14.4813566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5138961&lng=121.0510077&fid=0x3397cf73c1e6203f:0x71a37b7384f0a94c&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Flying V"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0554241,
+                    14.4889951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.521407049999999&lng=121.04992984999998&fid=0x3397cf1322f5e12d:0x157e991d39a0212a&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Flying V"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.076897,
+                    14.529813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.521407049999999&lng=121.04992984999998&fid=0x3397c8a0d130d513:0xeb7dbe0c8421b32d&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Flying V F Manalo 24 Hour Gas Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0703304,
+                    14.5320224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50193675&lng=121.0515034&fid=0x3397c8a30ebde84b:0x2b9dd68aea048f64&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0262532,
+                    14.528958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.521407049999999&lng=121.04992984999998&fid=0x3397c92ee03253f5:0xafd61d81de1a7214&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron - PT Aciete"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.088315,
+                    14.5408339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397c625017d1dd7:0x793e09f225a3dde8&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Gas Station (Xpressfill Station)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0618969,
+                    14.4929034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397cf6a2b476abf:0xa6123c6af1ed39d1&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Gas Station Lower Bicutan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0699681,
+                    14.5318959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397c8a30dad2bd5:0x61c750dd26119fc9&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Gasoline Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0534208,
+                    14.5419334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397c8eb9f7d4557:0xd846ca0798f15600&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron McKinley - Red Fuel Gas And Oil Station Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0346269,
+                    14.5314761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50926695&lng=121.06665575&fid=0x3397c9ad01ec5037:0xfeeb05454610a6ca&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Phoenix Gas Station fir AFP"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0346907,
+                    14.5315392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397c8d81436c89b:0xf351f18c4c3e6875&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Phoenix Petroleum - Lawton Ave Taguig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0548938,
+                    14.5129504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50193675&lng=121.0515034&fid=0x3397cf7c07c97e23:0x8bec12df083822ec&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "PriceLOCQ @ SEAOIL Cuasay - Taguig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0677206,
+                    14.5359522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.521407049999999&lng=121.04992984999998&fid=0x3397c988b62fb3ed:0xb860771950a6ec6e&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "PriceLOCQ @ SEAOIL Ususan - Taguig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0411579,
+                    14.5300551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.521407049999999&lng=121.04992984999998&fid=0x3397c8da71f63771:0xb177589a4ac2673b&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0458733,
+                    14.5549553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397c8f74dadabff:0x28bf46f3be12bf29&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0430289,
+                    14.5165817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397cf2d096a5c6b:0x93fd383313c88e76&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0725304,
+                    14.5330558
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.521407049999999&lng=121.04992984999998&fid=0x3397c9f6567de34f:0x577b7b602f6744a0&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell DSGC Cayetano Ave. Taguig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0453435,
+                    14.4770085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50926695&lng=121.06665575&fid=0x3397cf08035038e1:0xcdcc69b339f433f8&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Unioil Primeserve"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0432862,
+                    14.5260937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50193675&lng=121.0515034&fid=0x3397c8d1b6e3bc9d:0xd63e834991348d93&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Equator 24 Hour Gas Station Bayani Road"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0696026,
+                    14.5315342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397c9d1792bf30b:0x5c68a065b662ac27&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Global Oil Taguig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0734421,
+                    14.5180527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5138961&lng=121.0510077&fid=0x3397c8ac74403dbb:0x3395bf3399d5a499&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Hanz Fuels"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0553777,
+                    14.4889402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50926695&lng=121.06665575&fid=0x3397cf1321543933:0xd2a19ee1044b17fb&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "LAN GAS"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0768046,
+                    14.5302845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.521407049999999&lng=121.04992984999998&fid=0x3397c8a0d9419c8d:0xf250de49efdbb893&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Nitro"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0618969,
+                    14.4929034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50926695&lng=121.06665575&fid=0x3397cf8b5bc7ebc1:0x28dded9afb844285&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Noimie Padua"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0577609,
+                    14.5127079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397cf83f3cdbeab:0x50add3434c6ae71f&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petro Gazz - North Signal Taguig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.057266,
+                    14.5285744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.51139765&lng=121.05721240000001&fid=0x3397c889e666ebe3:0x1c8609bbe7fd5a85&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Taguig Petron 24 Hour Gas Station Diego Silang"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0609302,
+                    14.4840614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.50193675&lng=121.0515034&fid=0x3397cf616f059b51:0x5588ce345f9a968f&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Uno Fuel - Taguig"
+            },
+            "type": "Feature"
+        }
+    ]
+}

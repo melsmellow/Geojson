@@ -1,0 +1,256 @@
+{
+    "features" : [
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0128989,
+                    14.4926427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397cf14605b0b97:0x153fd56db222393a&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "15387 Saint Anthony Street"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9897995,
+                    14.5253745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397ceaadd2b636f:0x59e704a1636a4376&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Aseana 3 BPO Building"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0105361,
+                    14.4586416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397ce1580aea57d:0x75de7cb0a0db78f6&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "ChatGlobal, Inc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9927927,
+                    14.5263357
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397c980e43252bf:0x37e45da1d455e37&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Crown Information Technology Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.007353,
+                    14.457002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397cfbdf20e417d:0xfbd0ec1e1fe3bf9b&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "DCExcel Business Process Outsourcing Services"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9972618,
+                    14.4794963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397cf5f2272f561:0x80bfc054d0ce968b&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "E-Teleconnect, Inc. - Sucat Site"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9886831,
+                    14.533162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397c9566a5f2d33:0x4f20334cdd92030f&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "ePerformax Contact Centers & BPO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.994327,
+                    14.5171217
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397ceaf38ed9fbf:0xdeebf129c2610543&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Finlink"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0335777,
+                    14.457463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397ce3551c29777:0xb2fb888194ac5e8a&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "IBEX Global"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0026624,
+                    14.4919099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397ce8e50899cf9:0xe6fb9c5c5138b9a2&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Lumax Tech Solutions, Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0284199,
+                    14.4448844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397cf1e0d5cee6d:0x59ab26f2350eb564&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "OFive Outsourcing Corporation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0408703,
+                    14.4874385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397cf71f35c3247:0x4ae90bedbb006199&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Pinoy Quality VA BPO Services"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9912756,
+                    14.4899162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397ce9cbbc5aea5:0x14ed5327edd8976&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "RAF International Forwarding Phils. Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9985901,
+                    14.5091401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397ce476cf0def1:0x6403ea0a687abf41&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "SPI Global"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9975005,
+                    14.5086215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397cea31527aba5:0x4c4f3c080e04f8d0&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Syspro"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0361534,
+                    14.4578517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397cfca840a0fb3:0xabdbe0f9c4904c53&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Teleperformance"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.011046,
+                    14.4655403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.4806226&lng=121.01437805&fid=0x3397ce41e7a1e3e5:0xe5dc7f33e89f055a&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TTs Place"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0457983,
+                    14.4536766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.538499999999999&lng=121.109&fid=0x3397cfc632f445d1:0x9c07d3b17215294c&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "We Different8"
+            },
+            "type": "Feature"
+        }
+    ]
+}

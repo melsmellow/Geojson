@@ -1,0 +1,1026 @@
+{
+    "features" : [
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0430219,
+                    14.5349009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.562344150000001&lng=121.04735000000001&fid=0x3397c8dc991b36df:0xabec08c111d22bf6&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "[24]7.ai Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0502037,
+                    14.5348125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8c3bdf8c0c7:0x2827998574cdd041&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Accenture"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0465495,
+                    14.5531589
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c9cf72be3f63:0x4cab972751c123fb&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Acquire BPO Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0547183,
+                    14.5557512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c9987b8f7a31:0xad20d88108981239&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Acquire BPO Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0565264,
+                    14.5605139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c85fd6995f99:0xed8b65c44cb416e5&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Alorica - Kalayaan BGC"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0448948,
+                    14.5359964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8c32d4f931b:0xc9535ab5d2879635&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Cognizant Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0491958,
+                    14.5348516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c8c3d8d65e35:0xec9231156330422b&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Cognizant Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0525956,
+                    14.5306486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c9afc7220ab5:0xf919896c78f0a550&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Cognizant Philippines - Science Hub Tower 4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0543247,
+                    14.5567842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8f5102c0633:0xaea82f9a24517ed&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "concentrix"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.049015,
+                    14.5348519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8c3be419193:0x8e7692e586890968&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Convergys McKinley Hill"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0458097,
+                    14.5539639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c8f0bb3a399d:0xb56809db570f3fc8&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Everise"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.048864,
+                    14.5539072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c98950300cdd:0xf495c7b8c63bf765&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Everise"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0557904,
+                    14.5499072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c8f2c8c79e95:0x9ee57f81b3cd90c4&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Infosys"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0530443,
+                    14.5514836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c8f2cef0241d:0xe4d9967d53b21798&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Infosys BPM Limited"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0431592,
+                    14.5550279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8f98c0a8c09:0xca6d43479df782a7&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "JP Morgan Chase Bank - Taguig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0560842,
+                    14.5502062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8f2d3ffffff:0xb875336b5bbf5a4e&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Aces Call Center Jobs Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.05582,
+                    14.549549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8f2c8c79e95:0x6cb2662e13e00640&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Allsectech Manila Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0520796,
+                    14.5527776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8f396b915bb:0xb85b7a608c0176de&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Anderson Group BPO, Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0459606,
+                    14.5511016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c9db74974693:0x86c0b37db5d8b40c&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "ARB Call Facilities"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0453017,
+                    14.5550932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c8efdee14431:0xb2d8db5f8817b5f3&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "AS White Global Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0454857,
+                    14.5370723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c9eb88289a81:0xc8316f6c1f7946c7&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Asia Premier One Source"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0506212,
+                    14.5348114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c8c3a3887c65:0xfe0b97a277463ee6&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Bill Gosling Outsourcing (AIC Philippines)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.046935,
+                    14.548859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8efdbb380cb:0x79afe86f1d07290f&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "BPO.COM Services"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0457951,
+                    14.5538021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8f0a53fffff:0x18a43dbc31ef0c38&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "C3/ Customer Contact Channels Philippines Ltd."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0480353,
+                    14.5522059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c8f103010f27:0xcb57c927c7065e51&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Cbe Companies Ph, Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0466008,
+                    14.5482136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.562344150000001&lng=121.04735000000001&fid=0x3397c8efc60dc627:0x367140834e157946&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "creditbpo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0479856,
+                    14.5470316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c90f4787eb07:0xd964d869e5ee57f1&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Diversify Offshore Staffing Solutions"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0604753,
+                    14.5142182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397cf4b0db7dc8f:0x28d632af371daaec&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Eleora Call Center Services"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0460577,
+                    14.5501477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c8f01a052be5:0xca440ab66b12745a&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Excelsia BPO Services Inc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0564915,
+                    14.5605382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c86078a6dec3:0x7e368915bab5644e&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Expert Global Solutions - Fort"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.043816,
+                    14.5548007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c8fa1e69ccf7:0x134960c9b4113c97&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Global BPO Solution"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.045001,
+                    14.5534904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c9feac2a251b:0x3aa7a8d7bd3c67e1&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Guild Solutions, Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.05582,
+                    14.549549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c8f2c8c79e95:0xb701d19c4f7e0955&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Harte Hanks Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.046018,
+                    14.5501599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c9c0d56fb4e9:0x89c76781ddb2762b&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Helpware Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0471665,
+                    14.5544305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c94f84e63993:0xfc092a06bc7a6a1d&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Hexaware Technologies Ltd. (BPS)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.040853,
+                    14.504445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397cf246d0012bd:0x98b4e709d9b907d7&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "I-Elev8 Contact Solutions"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.049389,
+                    14.5348514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c8c3c1475875:0xcb829da96d9c45f8&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "IGT Solutions Pvt Ltd"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0436647,
+                    14.5358098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8dce9d83323:0x4f992362a87f4874&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Intelenet Global Philippines, Inc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0467022,
+                    14.5491498
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8f02182f2ff:0x4ca6fd338196f5d1&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "iOPEX technologies"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0495999,
+                    14.5506978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.57016235&lng=121.0452739&fid=0x3397c8f1bc0b74d5:0xd6d8372c98033ea0&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "IT & Business Process Association of the Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.067606,
+                    14.5352605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c905bd3b61ad:0xee0a4464a6ab96bd&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "ITAPP BPO Solutions Ltd."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0431308,
+                    14.5348956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c9e3c7560b37:0x73cabd339758ff1d&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Kgb Philippines, Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0533605,
+                    14.5507278
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8f2545025f3:0x9d2c5ec3b405c1b&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Legato Health Technologies Philippines, Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0461837,
+                    14.5500517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8f01762c82d:0x6b9b6b50309f57c9&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "MicroSourcing"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0542931,
+                    14.5591752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c96fad654159:0x689fabf3b672f01d&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "New building chase"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.046018,
+                    14.5501599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c96d07c0cacb:0x6967418b6ccc95ee&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Offshore Leased Staff | Outsourcing Solutions | Staff Augmentation | Staff Leasing"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0520673,
+                    14.53241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8c6b9b28def:0x65e7dd92c9499cab&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Optum Global Solutions"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0467434,
+                    14.5539039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8f0c8b69a91:0x86e20d80068832a0&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "OQUENNET INCORPORATED"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.060344,
+                    14.5140954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397cf4b0ea095a9:0x961b551c559edd84&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Orion's Data Registry"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.024983,
+                    14.528265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c92ef60bfe5b:0xcb2b8c4a765c2afb&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Philippine Interactive Audtiotext Services Inc. (PIASI)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0562342,
+                    14.5603487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c85fd6f91275:0x19d12261d5503f16&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "PROBE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0470844,
+                    14.5528773
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8f0be955555:0xd1f05ef85168e218&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "SEIDOPRO GLOBAL"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0533525,
+                    14.5532431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8f383eaaaab:0x9783d6aa53d904bb&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shadow Solutions Group Asia Inc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0453737,
+                    14.5500765
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8f003acd5e9:0x5f8ee317024f0587&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TalentScout Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0466411,
+                    14.5536848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8550824d651:0xab5d7248c7795a2e&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Talk Bpo (Ireland) Ltd"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0479329,
+                    14.5469561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8ee53155555:0x9fee8184b8ccc7d5&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TaskUs PH"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0519108,
+                    14.5529546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8f3ec04f6d9:0xc32a652fb5ab20a1&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Techno Global Team"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0475462,
+                    14.5485976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c95f0e4d1a47:0xe6002dd7b2c7038b&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TMJP BPO SERVICES INC."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0490752,
+                    14.5349414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c8eaae94a52f:0x784bb2dd643d4ed&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TSD Global PH"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0455913,
+                    14.5534689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8f0a3ab943f:0x9982487819511f50&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Ubiquity Global Services Philippines, Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0520424,
+                    14.5324078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8c6b86d697d:0x4f5a86ef93dd0bfd&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Unitedhealth Group"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0443726,
+                    14.5356706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c986d2b7f487:0xf616b5e70fc9852a&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Valor Global Inc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.052436,
+                    14.534464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c8c1143a04ef:0xdfb8b38b7d55109f&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Vekkta corporation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0516498,
+                    14.5322198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8c6be764e2f:0xb5cf3cb9e345bdf4&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Vistaprint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0530637,
+                    14.5312208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8c6e472782f:0x6b655b3331dee6e6&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Wells Fargo EGS, LLC - Philippines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0464327,
+                    14.5492306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5468196&lng=121.0496746&fid=0x3397c9a777ac1a17:0xe9a0542adaed51ea&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "WHG Customer Services Philippines Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.046918,
+                    14.5540777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c9f5bde876d3:0x1fccd5f292670a2f&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "PuzzleBox BPO Incorporated"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0484168,
+                    14.535176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.640000000000002&lng=121.06800000000001&fid=0x3397c8c3a386aa2b:0xce1281a60f1d34ee&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "PuzzleBox BPO Incorporated"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0532678,
+                    14.5450186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.532417449999999&lng=121.05423425&fid=0x3397c9eb0a83025b:0x5a7972cf47d1f37c&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Teleperformance Aura"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0436344,
+                    14.5357404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c8dccd5bd00b:0xa81fc2c947533060&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Teleperformance McKinley West"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0558983,
+                    14.5499447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5470071&lng=121.05329439999998&fid=0x3397c8f2d02d146d:0x2264e6bbc454e4cb&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TELUS International Market!Market!"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0553261,
+                    14.5493189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547480000000002&lng=121.05007714999999&fid=0x3397c8f2c8c79e95:0x6a0e618e07fbb6b9&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TELUS International Philippines - Market Market"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0452826,
+                    14.5362409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.54551925&lng=121.05384819999999&fid=0x3397c8c2d4e3e22b:0xce1d2209fa1fe137&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TELUS International Philippines - McKinley West"
+            },
+            "type": "Feature"
+        }
+    ]
+}

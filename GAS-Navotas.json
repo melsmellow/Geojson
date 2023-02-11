@@ -1,0 +1,102 @@
+{
+    "features" : [
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9565292,
+                    14.6373178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.670500000000002&lng=120.959&fid=0x3397b5bdab95d0b5:0xd118fb3442572cb5&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex Gas Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9433828,
+                    14.6679732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.670500000000002&lng=120.959&fid=0x3397b4578a56645f:0x16f345c985d1128d&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex M. Naval"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.953239,
+                    14.638856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.670500000000002&lng=120.959&fid=0x3397b5bcccd61403:0xd7c0bf808fe53098&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Navotas Terminal"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9596822,
+                    14.6374549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.670500000000002&lng=120.959&fid=0x3397b5be88e1c561:0x4096350c81ae8d84&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9635166,
+                    14.6325657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.670500000000002&lng=120.959&fid=0x3397b5953b695e6d:0xc0523d96a1f0f6f1&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Fuel Save"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9576407,
+                    14.6399932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.670500000000002&lng=120.959&fid=0x3397b5bbf562f19f:0xcea1f2130bcc8ce6&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "UniOil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9353673,
+                    14.6730216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.670500000000002&lng=120.959&fid=0x3397b502876ee635:0x256b0eb8bd2ce8f6&hl=en&gl=ph&client=earth-client&cv=7.3.4.8248&useragent=GoogleEarth/7.3.4.8248(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Mardans Tangos Diesel Refilling Station"
+            },
+            "type": "Feature"
+        }
+    ]
+}

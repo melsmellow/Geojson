@@ -1,0 +1,60 @@
+{
+    "features" : [
+        {
+            "geometry": {
+                "coordinates": [
+                    121.037899,
+                    14.756433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5763&lng=121.04099999999998&fid=0x3397b1956a73f7db:0x953933adad1d5e2f&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "EEG Contact Services"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9835725,
+                    14.6568097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5763&lng=121.04099999999998&fid=0x3397b5286e44766b:0xc653996c08063c5b&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "VSA BPO Inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0069449,
+                    14.7405285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5763&lng=121.04099999999998&fid=0x3397b199c5fd2ba1:0x2a09d75dd222cff4&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Virtual Mate"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0224448,
+                    14.7476392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.5763&lng=121.04099999999998&fid=0x3397b110ce829a7d:0xc5c8ddd9433fafff&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "TC FLORENTIN ELECTROSYSTEM BUILDERS CORPORATION"
+            },
+            "type": "Feature"
+        }
+    ]
+}

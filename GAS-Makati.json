@@ -1,0 +1,733 @@
+{
+    "features" : 
+    [
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0076813,
+                    14.550604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c90cf06ee6d5:0xa0e9c6d7a9cb424f&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.039842,
+                    14.5587812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8f8cf8676db:0x1ba2fff0933841db&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.014458,
+                    14.539806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c93eea2a1f49:0xfcd592f501a7b82c&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.01413,
+                    14.54007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c93ee625c9af:0x954323cc18f29805&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0195034,
+                    14.5709377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9a5ae6ab1cd:0xc5f03dc7b697c178&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0129718,
+                    14.5574509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c90cf042420f:0xe9e6ce9c63902ff1&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex - 2130 Chino Roces Avenue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0111414,
+                    14.560051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c90b50d0ed41:0xc4e848ee35118a5e&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex - Leona’s Gasoline and Service Center"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0086398,
+                    14.5667932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c99fbf1db6cf:0x24cb69bfa429bd0d&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex Vito Cruz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0086398,
+                    14.5667932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c99fbf1db6cf:0x24cb69bfa429bd0d&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex Vito Cruz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0214258,
+                    14.5565747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c904db1f2fe1:0x1434334874d75255&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Caltex Xpress Lube Franchise"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0198297,
+                    14.5709601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9a5af43ca49:0xf4a0024ba5f0bae5&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Clean Fuel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0074894,
+                    14.5669423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c99e3505a647:0x37ce071b7c58d0c5&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Clean Fuel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0198297,
+                    14.5709601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9a5af43ca49:0xf4a0024ba5f0bae5&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Clean Fuel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0074894,
+                    14.5669423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c99e3505a647:0x37ce071b7c58d0c5&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Clean Fuel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0195291,
+                    14.5701839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9a5b5e00be7:0xbb4365524beb201e&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Clean Fuel CALASANZ Makati"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0277921,
+                    14.5621024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c90753456541:0xa4c63b6eae0a1231&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Treats"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0277778,
+                    14.5619444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c900ad34b4af:0xa92fdd7caeb0e289&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0392212,
+                    14.558311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8ff2acd0b9d:0x61a06fca300c6ae6&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0118693,
+                    14.5490032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c90a4f77c26f:0xfd8b8987fdd76cc3&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0392212,
+                    14.558311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8ff2acd0b9d:0x61a06fca300c6ae6&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.003654,
+                    14.555791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9724b8f9a9b:0xa584e6c536453d24&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0008242,
+                    14.5635492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c977090c5d29:0xc04e468093aec33a&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Gas Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.014521,
+                    14.5665302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9a0d15bb98d:0xeadfe846933836e1&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Gas Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0276125,
+                    14.5622625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9ec019ba6bd:0xe184b251120dfcc4&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Gas Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0153486,
+                    14.5642664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c906c8cf190d:0xa3636e4385c506f2&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Kamagong"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0243455,
+                    14.5695146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9af19aba089:0x9bf2428ac2a1a575&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Petron Reposo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.027568,
+                    14.56197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c907514a48b9:0x6a2d66e5c0b14ab4&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "A-1 Driving - Makati City-Petron Square Bel-Air"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0444893,
+                    14.5633277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c85764dc5bbd:0x4c75be1c1fa80510&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Phoenix"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0119777,
+                    14.5664488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9a03fa9bed7:0xda41c5eb15353d4f&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Phoenix"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0444893,
+                    14.5633277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c85764dc5bbd:0x4c75be1c1fa80510&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Phoenix"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0130314,
+                    14.5672818
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9a1acf08a35:0xc6742bfdad202130&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.01364,
+                    14.553714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9759a484f21:0xcd0205f3ec285c01&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0423027,
+                    14.5676662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c850fd252aed:0xa2b0c93b08e9826e&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.01364,
+                    14.553714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9759a484f21:0xcd0205f3ec285c01&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0413651,
+                    14.5599558
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8fde81536c3:0xdb9b2385d137ea22&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0348984,
+                    14.555479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9097deca755:0x550fadc4b42132cf&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0048385,
+                    14.5525197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9acd6cfecc9:0x66a0a8ab01ef8ec3&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Gasoline Station - Edison"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.034853,
+                    14.555607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8fde7dd81d1:0xa8ac1dfcc644a41d&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Gasoline Station - Senator Gil Puyat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.034853,
+                    14.555607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8fde7dd81d1:0xa8ac1dfcc644a41d&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Gasoline Station - Senator Gil Puyat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0214272,
+                    14.5321269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c93006462a41:0x68a0e52b642e55cb&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Magallanes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0214272,
+                    14.5321269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c93006462a41:0x68a0e52b642e55cb&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Magallanes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.013699,
+                    14.5539322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c91e9bd028f5:0xe7e7d20ce5eacaa0&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Santillan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.013699,
+                    14.5539322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c91e9bd028f5:0xe7e7d20ce5eacaa0&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Santillan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0212534,
+                    14.5314312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c93010ba1bc1:0x2ca73fa68b064f7f&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell Select"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0299709,
+                    14.5500978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8fde82d5957:0x480fa7197686a692&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell | EDSA Mckinley"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0299709,
+                    14.5500978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c8fde82d5957:0x480fa7197686a692&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Shell | EDSA Mckinley"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0099256,
+                    14.5670718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c99f85380553:0x46f680b8a0de535f&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Unioil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0062991,
+                    14.5570567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c97247b7a159:0xc9ae5342d213a654&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Unioil Buendia Makati (SGV 2)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.040617,
+                    14.5593494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9c0133a0ac9:0x5bf0212e08b78224&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "Unioil Electric Vehicle Charging Station"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0304794,
+                    14.5671917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9ac637ca8bb:0x141b09ac57012785&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "UNIOIL Makati Avenue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0068202,
+                    14.5574709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c9724dcc8b03:0x3a71738d44c90207&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "enercon fuel service inc."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0076575,
+                    14.5506641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"https://www.google.com/earth/rpc/entity?lat=14.547400000000001&lng=121.032&fid=0x3397c939e134d8ff:0xf67488c01f407b59&hl=en&gl=ph&client=earth-client&cv=7.3.3.7786&useragent=GoogleEarth/7.3.3.7786(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)\";</script></body></html>",
+                "name": "FEMS ARNAIZ"
+            },
+            "type": "Feature"
+        }
+    ]
+}
